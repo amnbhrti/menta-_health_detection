@@ -1,1 +1,1 @@
-# menta-_health_detection
+# mental_health_detection
